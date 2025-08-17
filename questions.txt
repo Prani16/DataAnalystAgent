@@ -1,0 +1,3 @@
+What is the average sales?
+Which product has the highest profit?
+How many transactions were made in January?
